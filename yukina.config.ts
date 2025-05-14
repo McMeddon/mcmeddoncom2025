@@ -9,7 +9,7 @@ const YukinaConfig: Configuration = {
   description: "Custom Minecraft Survival and Creative Worlds",
 
   site: "https://mcmeddon.com",
-  base: "/mcmeddoncom2025/",
+  
 
   locale: "en", // set for website language and date format
 
