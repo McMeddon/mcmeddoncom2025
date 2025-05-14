@@ -26,7 +26,6 @@ const { title, subTitle, bannerImage, published } = Astro.props;
 
 //image import
 
-import image1 from "./src/pages/features/images/ores.png";
 
 // Corrected structure for the 'features' array
 const features: Feature[] = [
@@ -34,77 +33,77 @@ const features: Feature[] = [
 {
     name: "Ores",
     description: "Standard Minecraft ores are present for resource gathering.",
-    image: {image1},
+    image: "./featureimages/ores.png",
   },
   {
     name: "Vanilla Loot",
     description: "Standard Minecraft items and resources can be found as loot.",
-    image: "./src/pages/features/images/chest.gif",
+    image: "./featureimages/chest.gif",
   },
   {
     name: "Custom Structures",
     description: "Unique structures are scattered throughout the world.",
-    image: "./src/pages/features/images/structure.png",
+    image: "./featureimages/structure.png",
   },
   
   {
     name: "Vanilla chunks outside of the core world",
     description: "Both Java and Bedrock editions offer an infinite world experience with a seamless transition at the borders.",
-    image: "/src/pages/features/images/chunk.png",
+    image: "./featureimages/chunk.png",
   },
   {
     name: "(Passive-) Animals Spawn",
     description: "The world has been populated with all spawnable animals.",
-    image: "./src/pages/features/images/sheep.png",
+    image: "./featureimages/sheep.png",
   },
   {
     name: "Custom Caves",
     description: "The map features custom cave systems for exploration.",
-    image: "./src/pages/features/images/caves.jpg",
+    image: "./featureimages/caves.jpg",
   },
  
   
   {
     name: "World height: -64 to 320",
     description: "The world spans a vertical range from -64 to 320 blocks.",
-    image: "./src/pages/features/images/high.png",
+    image: "./featureimages/high.png",
   },
   {
     name: "Water Level 62",
     description: "The default water level in the world is set at coordinate 62.",
-    image: "./src/pages/features/images/waterlevel.jpg",
+    image: "./featureimages/waterlevel.jpg",
   }, 
   {
     name: "Custom Biomes",
     description: "The world includes unique biomes with distinct features.",
-    image: "./src/pages/features/images/forest.jpg",
+    image: "./featureimages/forest.jpg",
   },
   {
     name: "Survival-Oriented plants",
     description: "Vegitation does NOT include any non-natural blocks",
-    image: "./src/pages/features/images/307px-Mangrove_Tree.png",
+    image: "./featureimages/307px-Mangrove_Tree.png",
   },
   
   {
     name: "Small trees (max 6-7 block reach)",
     description: "Trees are intentionally kept small, with a maximum reach of 6-7 blocks, for easier resource gathering.",
-    image: "./src/pages/features/images/oak.png",
+    image: "./featureimages/oak.png",
   },
   {
     name: "Custom Vanilla Mobs included (In mineshafts)",
     description: "Modified versions of standard Minecraft mobs can be found within mineshafts.",
-    image: "./src/pages/features/images/Spawner_with_fire.png",
+    image: "./featureimages/Spawner_with_fire.png",
   },
   {
     name: "Exported for the latest version of Minecraft",
     description: "The map is compatible with the latest Minecraft Edition.",
-    image: "./src/pages/features/images/minecraft-icon.png",
+    image: "./featureimages/minecraft-icon.png",
   },
   
   {
     name: "Geodes",
     description: "Geodes, containing valuable crystals, can be found within the world.",
-    image: "./src/pages/features/images/Geode.png",
+    image: "./featureimages/Geode.png",
   },
 ];
 
