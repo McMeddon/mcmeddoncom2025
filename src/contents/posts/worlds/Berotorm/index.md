@@ -1,6 +1,6 @@
 ---
 title: Showcase - Berotorm , 🌋, 4k, 1.21.5, Plentyful forests, Moutains and Gen2 Volcano 
-cover: "./worlds/berotorm/thumbnailv_xl.webp"
+cover: "./worlds/berotorm/thumbnailv_xl.jpg"
 published: 2025-04-03
 description: 1.21.5, survival friendly, Download, Java, Minecraft World
 tags: [1.21.5, 8k, survival,  Java, Bedrock]
