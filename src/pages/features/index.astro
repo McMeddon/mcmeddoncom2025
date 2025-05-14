@@ -24,29 +24,6 @@ interface Props {
 
 const { title, subTitle, bannerImage, published } = Astro.props;
 
-// OLD Example data – replace with actual feature content
-const featuresOld: Feature[] = [
-  {
-    name: "Ancient Temple",
-    description: "An overgrown temple hidden deep in the jungle.",
-    image: "https://static.planetminecraft.com/files/image/minecraft/project/2025/878/18771878-x_l.webp",
-  },
-  {
-    name: "Frostkeep",
-    description: "A fortress nestled in the frozen peaks.",
-    image: "https://static.planetminecraft.com/files/image/minecraft/project/2025/878/18771881_l.webp",
-  },
-  {
-    name: "Frostkeep",
-    description: "A fortress nestled in the frozen peaks.",
-    image: "https://static.planetminecraft.com/files/image/minecraft/project/2025/878/18771880_l.webp",
-  },
-  {
-    name: "Frostkeep",
-    description: "A fortress nestled in the frozen peaks.",
-    image: "https://static.planetminecraft.com/files/image/minecraft/project/2025/878/18771882_l.webp",
-  },
-];
 
 // Corrected structure for the 'features' array
 const features: Feature[] = [
@@ -54,7 +31,7 @@ const features: Feature[] = [
 {
     name: "Ores",
     description: "Standard Minecraft ores are present for resource gathering.",
-    image: "./src/pages/features/images/ores.png ",
+    image: "./images/ores.png ",
   },
   {
     name: "Vanilla Loot",
