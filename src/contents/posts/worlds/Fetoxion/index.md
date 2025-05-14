@@ -1,6 +1,6 @@
 ---
 title: Showcase - Fetoxion, 8k, 1.21.5, Alpine Split Continent, Archipelagos, Mt. Fuji Inspired Volcano
-cover: "./worlds/fetoxion/thumbnail.jpg"
+cover: "/worlds/fetoxion/thumbnail.jpg"
 published: 2025-05-01
 description: 1.21.5, survival friendly, Download, Java, Minecraft World
 tags: [1.21.5, 8k, survival,  Java, Bedrock]
@@ -8,7 +8,7 @@ category: Survival
 licenseName: "licensed"
 author: McMeddon
 sourceLink: "https://www.planetminecraft.com/project/fetoxion/"
-draft: true
+draft: false
 ---
 
 

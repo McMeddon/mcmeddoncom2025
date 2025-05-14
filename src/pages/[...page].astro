@@ -18,16 +18,6 @@ export async function getStaticPaths({
 }
 const { page } = Astro.props;
 
-// Props to define the content and styling of a bento item
-export interface Props {
-  title: string;
-  description?: string;
-  colSpan?: string; // e.g., 'col-span-1', 'col-span-2'
-  rowSpan?: string; // e.g., 'row-span-1', 'row-span-2'
-  bgColor?: string; // Tailwind background color class, e.g., 'bg-neutral-800'
-  className?: string; // For additional custom classes
-}
-
 ---
 
 

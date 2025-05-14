@@ -1,6 +1,6 @@
 ---
-title: Example Commission World
-cover: "https://static.planetminecraft.com/files/image/minecraft/project/2025/560/18693672-f_xl.webp"
+title: Text Example Commission Post
+cover: "https://static.planetminecraft.com/files/image/minecraft/project/2025/878/18771880_l.webp"
 published: 2025-01-07
 description: A simple example of a commission post.
 tags: [4k, creative, terrain]
