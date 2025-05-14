@@ -40,7 +40,7 @@ const YukinaConfig: Configuration = {
 
   username: "McMeddon",
   sign: "Digital Enviroment Designer",
-  avatarUrl: "./mcmeddonprofilepicture.gif",
+  avatarUrl: "./../../mcmeddonprofilepicture.gif",
   /* avatarUrl: "https://static.planetminecraft.com/files/avatar/1592432_7.jpg", */
   socialLinks: [
     {
