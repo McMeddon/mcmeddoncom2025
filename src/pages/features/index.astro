@@ -24,6 +24,9 @@ interface Props {
 
 const { title, subTitle, bannerImage, published } = Astro.props;
 
+//image import
+
+import image1 from "./src/pages/features/images/ores.png";
 
 // Corrected structure for the 'features' array
 const features: Feature[] = [
@@ -31,7 +34,7 @@ const features: Feature[] = [
 {
     name: "Ores",
     description: "Standard Minecraft ores are present for resource gathering.",
-    image: "./images/ores.png ",
+    image: {image1},
   },
   {
     name: "Vanilla Loot",
