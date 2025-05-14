@@ -1,6 +1,6 @@
 ---
 title: Showcase - Elazkor , 🌋, 4k, 1.21.5, Plentyful forests, Moutains and Gen2 Volcano 
-cover: "/thumbnailv_xl.jpg"
+cover: "./worlds/elazkor/thumbnailv_xl.jpg"
 published: 2025-04-23
 description: 1.21.5, survival friendly, Download, Java, Minecraft World
 tags: [1.21.5, 8k, survival,  Java, Bedrock]
