@@ -17,19 +17,20 @@ For smaller worlds it will be rarer, as its to work intensive to do for every pr
 </iframe>
 
 ### Fetoxion
-<iframe 
+<!-- <iframe 
   src="https://mcmeddon.github.io/Fetoxion/" 
   width="100%" 
   height="600px" 
   frameborder="0" 
   class="w-full rounded-2xl"
   allowfullscreen>
-</iframe>
+</iframe> -->
 <br>
 <hr>
 <br>
 ## Futher world examples
 
+- [Xaroterra](mcmeddon.github.io/Fetoxion/)
 - [Fetoxion](mcmeddon.github.io/Fetoxion/)
 - [Yoxadion](mcmeddon.github.io/Yoxadion/)
 - [Utoropos](mcmeddon.github.io/Utoropos/)
